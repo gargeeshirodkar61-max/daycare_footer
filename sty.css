@@ -1,0 +1,133 @@
+.refer-section{
+text-align:center;
+padding:60px;
+background:#f5f7ff;
+}
+
+.refer-section h2{
+font-size:32px;
+margin-bottom:10px;
+}
+
+.referral-box{
+margin:20px;
+}
+
+.referral-box input{
+padding:10px;
+width:200px;
+border-radius:5px;
+border:1px solid #ccc;
+}
+
+.referral-box button{
+padding:10px 15px;
+background:#4CAF50;
+color:white;
+border:none;
+border-radius:5px;
+cursor:pointer;
+}
+
+.invite-box{
+margin-top:15px;
+}
+
+.invite-box input{
+padding:10px;
+width:250px;
+border-radius:5px;
+border:1px solid #ccc;
+}
+
+.invite-box button{
+padding:10px 20px;
+background:#007BFF;
+color:white;
+border:none;
+border-radius:5px;
+cursor:pointer;
+}
+
+.reward{
+margin-top:15px;
+font-weight:bold;
+color:#ff6600;
+}
+/* FOOTER */
+
+footer{
+background:#222;
+color:white;
+padding:40px;
+}
+
+.footer-container{
+display:flex;
+justify-content:space-between;
+flex-wrap:wrap;
+}
+
+.footer-container div{
+width:22%;
+}
+
+.footer-links a{
+display:block;
+color:#ccc;
+text-decoration:none;
+margin:5px 0;
+}
+
+.footer-links a:hover{
+color:white;
+}
+
+.footer-newsletter input{
+padding:8px;
+width:70%;
+border:none;
+border-radius:4px;
+}
+
+.footer-newsletter button{
+padding:8px 12px;
+background:#ff6600;
+color:white;
+border:none;
+cursor:pointer;
+}
+
+.social{
+text-align:center;
+margin-top:20px;
+}
+
+.social a{
+color:#ddd;
+margin:0 10px;
+text-decoration:none;
+}
+
+.social a:hover{
+color:white;
+}
+
+.copyright{
+text-align:center;
+margin-top:20px;
+font-size:14px;
+}
+
+#topBtn{
+position:fixed;
+bottom:20px;
+right:20px;
+padding:10px 15px;
+font-size:18px;
+background:#007BFF;
+color:white;
+border:none;
+border-radius:50%;
+cursor:pointer;
+}
